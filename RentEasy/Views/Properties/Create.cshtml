@@ -1,0 +1,21 @@
+﻿@model RentEasy.Models.Property
+
+<h1>Create Property</h1>
+
+<form asp-action="Create" method="post">
+    <div>
+        <label>Address</label>
+        <input asp-for="Address" />
+    </div>
+    <div>
+        <label>Rent Amount</label>
+        <input asp-for="RentAmount" type="number" step="0.01" />
+    </div>
+    <div>
+        <label>Is Available</label>
+        <input asp-for="IsAvailable" type="checkbox" />
+    </div>
+    <button type="submit">Save</button>
+</form>
+
+<a href="@Url.Action("Index")">Back to List</a>

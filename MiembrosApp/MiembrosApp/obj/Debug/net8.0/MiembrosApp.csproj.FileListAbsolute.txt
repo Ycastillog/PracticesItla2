@@ -1,0 +1,14 @@
+C:\_ItlaPractices\PracticesItla2\MiembrosApp\MiembrosApp\bin\Debug\net8.0\MiembrosApp.exe
+C:\_ItlaPractices\PracticesItla2\MiembrosApp\MiembrosApp\bin\Debug\net8.0\MiembrosApp.deps.json
+C:\_ItlaPractices\PracticesItla2\MiembrosApp\MiembrosApp\bin\Debug\net8.0\MiembrosApp.runtimeconfig.json
+C:\_ItlaPractices\PracticesItla2\MiembrosApp\MiembrosApp\bin\Debug\net8.0\MiembrosApp.dll
+C:\_ItlaPractices\PracticesItla2\MiembrosApp\MiembrosApp\bin\Debug\net8.0\MiembrosApp.pdb
+C:\_ItlaPractices\PracticesItla2\MiembrosApp\MiembrosApp\obj\Debug\net8.0\MiembrosApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\_ItlaPractices\PracticesItla2\MiembrosApp\MiembrosApp\obj\Debug\net8.0\MiembrosApp.AssemblyInfoInputs.cache
+C:\_ItlaPractices\PracticesItla2\MiembrosApp\MiembrosApp\obj\Debug\net8.0\MiembrosApp.AssemblyInfo.cs
+C:\_ItlaPractices\PracticesItla2\MiembrosApp\MiembrosApp\obj\Debug\net8.0\MiembrosApp.csproj.CoreCompileInputs.cache
+C:\_ItlaPractices\PracticesItla2\MiembrosApp\MiembrosApp\obj\Debug\net8.0\MiembrosApp.dll
+C:\_ItlaPractices\PracticesItla2\MiembrosApp\MiembrosApp\obj\Debug\net8.0\refint\MiembrosApp.dll
+C:\_ItlaPractices\PracticesItla2\MiembrosApp\MiembrosApp\obj\Debug\net8.0\MiembrosApp.pdb
+C:\_ItlaPractices\PracticesItla2\MiembrosApp\MiembrosApp\obj\Debug\net8.0\MiembrosApp.genruntimeconfig.cache
+C:\_ItlaPractices\PracticesItla2\MiembrosApp\MiembrosApp\obj\Debug\net8.0\ref\MiembrosApp.dll

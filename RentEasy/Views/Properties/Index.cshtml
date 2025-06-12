@@ -1,0 +1,30 @@
+﻿@model IEnumerable<RentEasy.Models.Property>
+
+@{
+    ViewData["Title"] = "Properties List";
+}
+
+<h1>Properties</h1>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Address</th>
+            <th>Rent Amount</th>
+            <th>Is Available</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var property in Model)
+        {
+            <tr>
+                <td>@property.Id</td>
+                <td>@property.Address</td>
+                <td>@property.RentAmount.ToString("C")</td>
+                <td>@(property.IsAvailable ? "Yes" : "No")</td>
+            </tr>
+        }
+    </tbody>
+</table>
+

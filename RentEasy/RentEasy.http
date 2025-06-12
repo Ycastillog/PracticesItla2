@@ -1,0 +1,7 @@
+@RentEasy_HostAddress = hhttps://localhost:7063/Properties
+
+GET {{RentEasy_HostAddress}}/properties
+Accept: application/json
+
+
+###

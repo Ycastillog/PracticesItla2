@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\_ItlaPractices\\PracticesItla2\\MiembrosApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{77644D06-F451-4EB1-A8CE-BFCE5DF71FB4}|MiembrosApp\\MiembrosApp.csproj|c:\\_itlapractices\\practicesitla2\\miembrosapp\\miembrosapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77644D06-F451-4EB1-A8CE-BFCE5DF71FB4}|MiembrosApp\\MiembrosApp.csproj|solutionrelative:miembrosapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77644D06-F451-4EB1-A8CE-BFCE5DF71FB4}|MiembrosApp\\MiembrosApp.csproj|c:\\_itlapractices\\practicesitla2\\miembrosapp\\miembrosapp\\clases\\exalumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77644D06-F451-4EB1-A8CE-BFCE5DF71FB4}|MiembrosApp\\MiembrosApp.csproj|solutionrelative:miembrosapp\\clases\\exalumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77644D06-F451-4EB1-A8CE-BFCE5DF71FB4}|MiembrosApp\\MiembrosApp.csproj|c:\\_itlapractices\\practicesitla2\\miembrosapp\\miembrosapp\\clases\\administrativo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77644D06-F451-4EB1-A8CE-BFCE5DF71FB4}|MiembrosApp\\MiembrosApp.csproj|solutionrelative:miembrosapp\\clases\\administrativo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ExAlumno.cs",
+              "DocumentMoniker": "C:\\_ItlaPractices\\PracticesItla2\\MiembrosApp\\MiembrosApp\\Clases\\ExAlumno.cs",
+              "RelativeDocumentMoniker": "MiembrosApp\\Clases\\ExAlumno.cs",
+              "ToolTip": "C:\\_ItlaPractices\\PracticesItla2\\MiembrosApp\\MiembrosApp\\Clases\\ExAlumno.cs*",
+              "RelativeToolTip": "MiembrosApp\\Clases\\ExAlumno.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T01:20:12.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Administrativo.cs",
+              "DocumentMoniker": "C:\\_ItlaPractices\\PracticesItla2\\MiembrosApp\\MiembrosApp\\Clases\\Administrativo.cs",
+              "RelativeDocumentMoniker": "MiembrosApp\\Clases\\Administrativo.cs",
+              "ToolTip": "C:\\_ItlaPractices\\PracticesItla2\\MiembrosApp\\MiembrosApp\\Clases\\Administrativo.cs*",
+              "RelativeToolTip": "MiembrosApp\\Clases\\Administrativo.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T01:19:32.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\_ItlaPractices\\PracticesItla2\\MiembrosApp\\MiembrosApp\\Program.cs",
+              "RelativeDocumentMoniker": "MiembrosApp\\Program.cs",
+              "ToolTip": "C:\\_ItlaPractices\\PracticesItla2\\MiembrosApp\\MiembrosApp\\Program.cs*",
+              "RelativeToolTip": "MiembrosApp\\Program.cs*",
+              "ViewState": "AgIAAKYAAAAAAAAAAAAswMAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T01:10:38.804Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
